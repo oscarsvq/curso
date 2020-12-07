@@ -1,0 +1,97 @@
+h1 {
+				color: black;
+				text-align: center;
+				font-family: sans-serif;
+			}
+
+#si {
+
+				color: black;
+				text-align: center;				
+
+}
+
+#si:hover {
+				background-color: red;
+				background-size: 10%;
+				
+}
+.cuerpo {
+			border: 3px solid black;
+			background-color: white;
+			padding: 20px;
+			margin-top: 2%;
+			font-family: tahoma; sans-serif;
+		}
+
+#cabecera {
+
+	
+	background-color: white;
+	margin-top: 5%;
+	align-content: center;
+	display: block;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+#insta {
+
+	align-content: center;
+	margin-right: auto;
+	margin-left: auto;
+	width: 25px;
+	display: block;
+	margin-top: 2%;
+}
+#contenedor {
+	
+	background-color: white;
+	display: grid;
+	padding: 10px;
+	grid-row-gap: 10px;
+	grid-column-gap: 10px
+	grid-template-columns: auto auto auto;
+
+}
+
+.menu {
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-family: tahoma; sans-serif;
+	font-weight: bold;
+
+}
+
+#prueba {
+	
+	background-color: white;
+				display: grid;
+				padding: 20px;
+				grid-column-gap: 20px;
+				grid-row-gap: 10px;
+				grid-template-columns: auto auto auto;
+
+}
+
+.otro {
+background-color: black;
+	color: white;
+	padding: 20px;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
